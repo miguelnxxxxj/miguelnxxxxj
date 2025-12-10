@@ -36,7 +36,20 @@ Bem-vindo ao meu perfil! Aqui você encontra meus projetos, ideias e experimento
 
 ## ⭐ Projetos em Destaque
 
-* **Discord Bot** com prefixo `c!` — Sistema de ajuda, comandos úteis e boas práticas.
+* **jClãns** Plugin de clãns para 1.21 completo com os seguintes sistemas: Sistema 100% próprio
+
+DB do plugin em menu
+
+API robusta para devs
+
+Ranking de clãs (Kills / KDR / Kills do Clan)
+
+Sistema de boletins em menu
+
+Sistema de upgrades do clan
+
+E muito mais.
+
 * **Plugins Minecraft** para servidores Semi-Anarquia e Survival.
 * **Render Tools** e experimentos gráficos (quando sobra tempo 😅).
 
