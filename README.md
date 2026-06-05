@@ -1,12 +1,11 @@
 # 🚀 
 
-Bem-vindo ao meu perfil! Aqui você encontra meus projetos, ideias e experimentos — desde bots no Discord até plugins e ferramentas criativas.
-
+Bem-vindo ao meu perfil!
 ---
 
-## 👤 Sobre Mim
+##  Sobre Mim
 
-* 💻 Dev focado em **Minecraft Plugins**, **Bots para Discord** e **sites simples**.
+* 💻 Dev focado em **Plugins de Minecraft**, **Bots para Discord** e **Sites / Api's**.
 * 🌱 Sempre aprendendo algo novo.
 
 ---
